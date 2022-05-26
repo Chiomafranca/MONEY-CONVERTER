@@ -1,0 +1,130 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#dollar{
+    width: 50%;
+    position: relative;
+    left: 80px;
+    top: 90px;
+}
+
+.input-text{
+       position: relative;
+       left: 650px;
+       bottom: 280px;
+       background-color: rgb(0, 0, 207);
+       height: 170px;
+       width: 400px;
+       text-align: center;
+       padding: 40px;
+       border: solid  rgb(114, 83, 139);
+       opacity: .7;
+       
+}
+
+.input-text h3{
+    color: white;
+    font-size: 17px;
+    position: relative;
+    right: 40px;
+    bottom: 10px;
+
+
+}
+
+.input-text input{
+    width: 340px;
+    height: 68px;
+    position: relative;
+    right: 24px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(139, 139, 139);
+    border: none;
+    border-radius: 3px;
+     overflow: unset;
+     
+   
+
+
+}
+
+.input-text button{
+    width: 100px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: rgb(85, 129, 85);
+    color: #fff;
+    border: solid rgb(70, 66, 66);
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+ button:hover{
+   background-color: darkgreen;
+}
+
+
+
+
+.table-row{
+    position: relative;
+    left: 650px;
+    bottom: 200px;
+    border: solid;
+    width: 340px;
+  
+}
+
+.thick{
+    background-color: lightblue;
+    width: 200px;
+    text-align: left;
+}
+
+
+#light{
+    position: relative;
+    left: 2px;
+    background-color: skyblue;
+    width: 140px;
+    text-align: right;
+}
+
+
+h2{
+    background-color: mediumblue;
+    width: 337px;
+    height: 50px;
+    color: white;
+    text-align: left;  
+}
+
+
+ .h4{
+    background-color: blue;
+    width: 339px;
+    position: relative;
+    top: 144px;
+    border: solid;
+    position: relative;
+    top: 1px;
+} 
+
+
+
+
+
+
+/* .input-text hr{
+    width: 340px;
+    position: relative;
+    right: 29px;
+    bottom:  10px;
+   background-color: rgb(3, 2, 2);
+    
+   
+} */
